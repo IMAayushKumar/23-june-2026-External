@@ -1,0 +1,47 @@
+.container {
+  text-align: center;
+  padding: 40px;
+}
+
+.container h1 {
+  font-size: 32px;
+  margin-bottom: 20px;
+}
+
+.container input {
+  padding: 10px;
+  font-size: 16px;
+  margin-bottom: 20px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.container button {
+  padding: 10px 30px;
+  font-size: 16px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  margin: 20px auto;
+  display: block;
+}
+
+.container button:hover {
+  background-color: #0056b3;
+}
+
+.container h2 {
+  font-size: 36px;
+  color: green;
+  margin: 20px 0 10px 0;
+}
+
+.container p {
+  font-size: 18px;
+  color: #333;
+  margin: 0;
+}
+
